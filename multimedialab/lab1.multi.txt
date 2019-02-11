@@ -1,0 +1,11 @@
+ubuntostudio.org/tour is a linux based operating system.
+It is free and open platform and very poerful platform for people.
+people can get the source code and can modify the code and also can redistribute the ubuntu studio.
+ubuntu studio is supported by Canonical Ltd.
+It is released every six months but long term release version is released only every 2 years.
+It has some contents like audio,graphics,video etc 
+
+
+the amazon kindle is a series of e-readers.
+It is designed by Amazon.
+Amazonkindle devices enable users to browse,bye,download and read e-books,newspapers,magazines.
